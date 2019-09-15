@@ -4,3 +4,6 @@
 [submodule "KayOsimRL"]
 	path = KayOsimRL
 	url = https://github.com/AmrMKayid/KayOsimRL
+[submodule "KayMineRL"]
+	path = KayMineRL
+	url = https://github.com/AmrMKayid/KayMineRL
