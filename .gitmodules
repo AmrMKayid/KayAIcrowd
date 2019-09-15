@@ -1,12 +1,12 @@
 [submodule "KayFlatlandRL"]
 	path = KayFlatlandRL
-	url = https://github.com/AmrMKayid/KayFlatlandRL
+	url = https://github.com/AmrMKayid/KayFlatlandRL.git
 [submodule "KayOsimRL"]
 	path = KayOsimRL
-	url = https://github.com/AmrMKayid/KayOsimRL
+	url = https://github.com/AmrMKayid/KayOsimRL.git
 [submodule "KayMineRL"]
 	path = KayMineRL
-	url = https://github.com/AmrMKayid/KayMineRL
+	url = https://github.com/AmrMKayid/KayMineRL.git
 [submodule "KayAutoLearn"]
 	path = KayAutoLearn
 	url = https://github.com/AmrMKayid/KayAutoLearn.git
