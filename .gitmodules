@@ -7,3 +7,6 @@
 [submodule "KayMineRL"]
 	path = KayMineRL
 	url = https://github.com/AmrMKayid/KayMineRL
+[submodule "KayAutoLearn"]
+	path = KayAutoLearn
+	url = https://github.com/AmrMKayid/KayAutoLearn.git
